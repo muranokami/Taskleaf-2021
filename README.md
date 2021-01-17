@@ -1,24 +1,12 @@
-# README
+アプリ名
+Taskleaf2021
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+概要
+このアプリでできることは、シンプルなToDoListで書かれていると思いますが、ファイルを読み取ることで写真を載せたり、同じタスクを
+増やしたりすることができます。他にもログインをしない限りタスクのページに遷移されないようになっています。
 
-Things you may want to cover:
+本番環境
 
-* Ruby version
+制作背景
+ToDoList
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
